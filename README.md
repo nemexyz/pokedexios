@@ -4,6 +4,11 @@ La solución propuesta fue desarrollada con Swift 5.2 y SwiftUI para la nueva ge
 
 Alcance del desarrollo: listado de pokemones con scroll infinito (carga indefinida hacia abajo), detalle basíco con base de datos ORM Realm para garantizar carga de datos más rápida.
 
+<p align="center">
+  <img height="600" src="Images/PokemonList.png" />
+  <img height="600" src="Images/PokemonDetail.png" />
+</p>
+
 Nota: Lo desarrolle con SwiftUI para aprender como reto Functional Reactive Programming (FRP), me hizo falta la mayoria de la funcionalidad pero me concentre en lo más importante.
 
 ### Librerías
